@@ -2,7 +2,7 @@
 🔭 I’m currently working on Real-time Rendering
 <p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="460" align="left" alt="LihbGame's github stats" src="https://github-readme-stats.vercel.app/api?username=LihbGame&theme=Gradient&show_icons=true" />
+    <img width="460" align="left" alt="LihbGame's github stats" src="https://github-readme-stats.vercel.app/api?username=LihbGame&theme=synthwave&show_icons=true" />
   </a>
 </p>
 <!--
